@@ -1,11 +1,7 @@
-p {
-    color: rgb(111, 6, 64);
+* {
+    background-color: yellow;
 }
 
-pre {
-    color: brown;
-}
-
-big {
-    color: chartreuse;
+button {
+    background-color: green;
 }
