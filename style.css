@@ -16,7 +16,11 @@ button {
 } */
 * {
     font-family: 'Times New Roman';
+}
+
+#heading {
     text-transform: capitalize;
+    text-align: center;
 }
 
 #outer {
