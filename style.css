@@ -1,4 +1,4 @@
-* {
+/* * {
     background-color: yellow;
 }
 
@@ -13,4 +13,8 @@ button {
 
 #box{
     background-color: blue;
+} */
+* {
+    font-family: 'Times New Roman';
+    text-transform: capitalize;
 }
