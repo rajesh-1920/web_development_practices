@@ -1,32 +1,6 @@
-/* * {
-    background-color: yellow;
-}
-
-button {
+#d1{
     background-color: green;
-}
-
-.heading {
-    background-color: blue;
-    color: red;
-}
-
-#box{
-    background-color: blue;
-} */
-* {
-    font-family: 'Times New Roman';
-}
-
-#heading {
-    text-transform: capitalize;
-    text-align: center;
-}
-
-#outer {
-    font-size: 25px;
-}
-
-#inner {
-    font-size: 10px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
 }
